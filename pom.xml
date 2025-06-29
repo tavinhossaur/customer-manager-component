@@ -22,7 +22,19 @@
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
 
+    <repositories>
+        <repository>
+            <id>beyond-boilerplate</id>
+            <url>https://maven.pkg.github.com/tavinhossaur/beyond-boilerplate</url>
+        </repository>
+    </repositories>
+
     <dependencies>
+        <dependency>
+            <groupId>com.ifsp.tavinho</groupId>
+            <artifactId>beyond-boilerplate</artifactId>
+            <version>1.0.0</version>
+        </dependency>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>

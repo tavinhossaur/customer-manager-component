@@ -3,7 +3,8 @@ package com.ifsp.tavinho.customer_manager_component.provided.customer;
 import java.util.List;
 
 import com.ifsp.tavinho.customer_manager_component.internal.CustomerManager;
-import com.ifsp.tavinho.customer_manager_component.provided.boilerplate.InterfacePort;
+
+import com.ifsp.tavinho.beyond_boilerplate.provided.InterfacePort;
 
 public class CustomerManagerInterfacePort extends InterfacePort implements ProvidedCustomerManagerInterface {
 

@@ -1,7 +1,8 @@
 package com.ifsp.tavinho.customer_manager_component.provided.customer;
 
 import com.ifsp.tavinho.customer_manager_component.internal.CustomerManager;
-import com.ifsp.tavinho.customer_manager_component.provided.boilerplate.ComponentInterface;
+
+import com.ifsp.tavinho.beyond_boilerplate.provided.ComponentInterface;
 
 public class CustomerManagerInterface extends ComponentInterface {
 
