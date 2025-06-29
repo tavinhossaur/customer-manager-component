@@ -41,7 +41,7 @@ To use this component in your own Maven project, add the following to your `pom.
 ```xml
 <repositories>
   <repository>
-    <id>github</id>
+    <id>customer-manager-component</id>
     <url>https://maven.pkg.github.com/tavinhossaur/customer-manager-component</url>
   </repository>
 </repositories>
